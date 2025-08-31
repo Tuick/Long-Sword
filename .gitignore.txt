@@ -1,0 +1,21 @@
+Visual Studio
+.vs/
+.VC.db
+.VC.opendb
+.suo
+.user
+.sln.docstates
+
+Unreal Engine
+Saved/
+Intermediate/
+Binaries/
+DerivedDataCache/
+Build/
+
+Outros
+.pdb
+.obj
+.pch
+.bin
+.db
