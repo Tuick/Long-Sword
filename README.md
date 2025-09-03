@@ -27,7 +27,7 @@ Este plano de desenvolvimento é focado na criação de um ARPG indie, inspirado
 * [x] **Meta 7:** Implementar drop/loot simples (Actor spawn ao morrer) e coleta básica.
 * [x] **Meta 8:** Inventário mínimo com HUD (UMG grid, barra de vida, tooltips iniciais).
 * [x] **Meta 9:** Salvamento persistência básica (SaveGame para stats, inventário, posição); testar load.
-* [ ] **Meta 10:** Sistema de habilidades base - USkill class com custo/mana, 1 skill protótipo (projétil).
+* [x] **Meta 10:** Sistema de habilidades base - USkill class com custo/mana, 1 skill protótipo (projétil).
 * [ ] **Meta 11:** Balance inicial - Ajustar dano/HP/cooldowns; adicionar partículas placeholders.
 * [ ] **Meta 12:** Level design inicial - Arena pequena com obstáculos; spawn 2 inimigos variados.
 * [ ] **Meta 13:** Progressão básica – XP system ligado a kills, level-up simples.
